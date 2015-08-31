@@ -3,26 +3,8 @@
   <channel>
     <title>look... a geek!</title>
     <description>zsh, green terminal</description>
-    <link>http://pixyll.com/</link>
-    <atom:link href="http://pixyll.com/feed.xml" rel="self" type="application/rss+xml" />
-    
-      <item>
-        <title>Announcing Version 2.0</title>
-        <description>&lt;p&gt;In an effort to make Pixyll easier to customize and more aesthetically pleasing, we’ve release version &lt;code&gt;2.0&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;Pixyll now features:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Line anchors in code blocks and new syntax highlighting&lt;/li&gt;
-  &lt;li&gt;A customizable variables file&lt;/li&gt;
-  &lt;li&gt;Modular, and lighter weight CSS&lt;/li&gt;
-  &lt;li&gt;No more &lt;code&gt;max-width&lt;/code&gt; media queries&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sat, 11 Jul 2015 00:00:00 +0530</pubDate>
-        <link>http://pixyll.com/jekyll/pixyll/2015/07/11/announcing-pixyll-version-2/</link>
-        <guid isPermaLink="true">http://pixyll.com/jekyll/pixyll/2015/07/11/announcing-pixyll-version-2/</guid>
-      </item>
+    <link>https://lookageek.github.io/</link>
+    <atom:link href="https://lookageek.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Hello, Pixyll</title>
@@ -46,8 +28,8 @@
 &lt;p&gt;It’s free, and open source (&lt;a href=&quot;http://opensource.org/licenses/MIT&quot;&gt;MIT&lt;/a&gt;).&lt;/p&gt;
 </description>
         <pubDate>Wed, 11 Jun 2014 21:01:19 +0530</pubDate>
-        <link>http://pixyll.com/jekyll/pixyll/2014/06/11/welcome-to-pixyll/</link>
-        <guid isPermaLink="true">http://pixyll.com/jekyll/pixyll/2014/06/11/welcome-to-pixyll/</guid>
+        <link>https://lookageek.github.io/jekyll/pixyll/2014/06/11/welcome-to-pixyll/</link>
+        <guid isPermaLink="true">https://lookageek.github.io/jekyll/pixyll/2014/06/11/welcome-to-pixyll/</guid>
       </item>
     
       <item>
@@ -169,34 +151,8 @@ or add, features.&lt;/p&gt;
 &lt;p&gt;Happy writing.&lt;/p&gt;
 </description>
         <pubDate>Tue, 10 Jun 2014 18:01:19 +0530</pubDate>
-        <link>http://pixyll.com/jekyll/pixyll/2014/06/10/see-pixyll-in-action/</link>
-        <guid isPermaLink="true">http://pixyll.com/jekyll/pixyll/2014/06/10/see-pixyll-in-action/</guid>
-      </item>
-    
-      <item>
-        <title>So, What is Jekyll?</title>
-        <description>&lt;p&gt;Jekyll is a tool for transforming your plain text into static websites and 
-blogs. It is simple, static, and blog-aware. Jekyll uses the 
-&lt;a href=&quot;http://docs.shopify.com/themes/liquid-basics&quot;&gt;Liquid&lt;/a&gt; templating
-language and has builtin &lt;a href=&quot;http://daringfireball.net/projects/markdown/&quot;&gt;Markdown&lt;/a&gt;
-and &lt;a href=&quot;http://en.wikipedia.org/wiki/Textile_(markup_language)&quot;&gt;Textile&lt;/a&gt; support.&lt;/p&gt;
-
-&lt;p&gt;It also ties in nicely to &lt;a href=&quot;https://pages.github.com/&quot;&gt;Github Pages&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Learn more about Jekyll on their &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;website&lt;/a&gt;.&lt;/p&gt;
-</description>
-        <pubDate>Mon, 09 Jun 2014 18:02:18 +0530</pubDate>
-        <link>http://pixyll.com/jekyll/pixyll/2014/06/09/so-what-is-jekyll/</link>
-        <guid isPermaLink="true">http://pixyll.com/jekyll/pixyll/2014/06/09/so-what-is-jekyll/</guid>
-      </item>
-    
-      <item>
-        <title>Pixyll has Pagination</title>
-        <description>&lt;p&gt;This is an empty post to illustrate the pagination component with Pixyll.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 08 Jun 2014 16:51:29 +0530</pubDate>
-        <link>http://pixyll.com/jekyll/pixyll/2014/06/08/pixyll-has-pagination/</link>
-        <guid isPermaLink="true">http://pixyll.com/jekyll/pixyll/2014/06/08/pixyll-has-pagination/</guid>
+        <link>https://lookageek.github.io/jekyll/pixyll/2014/06/10/see-pixyll-in-action/</link>
+        <guid isPermaLink="true">https://lookageek.github.io/jekyll/pixyll/2014/06/10/see-pixyll-in-action/</guid>
       </item>
     
   </channel>

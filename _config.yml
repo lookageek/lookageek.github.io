@@ -4,7 +4,7 @@ email:       jayanthms7@gmail.com
 author:      Jayanth Manklu
 description: "zsh, green terminal"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "https://lookageek.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -22,10 +22,10 @@ show_social_icons:  false
 disqus_shortname:
 
 # Social icons
-github_username:
+github_username: jaymanklu
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: manklu
 google_plus_id:
 linkedin_username:
 angellist_username:
