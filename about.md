@@ -5,3 +5,5 @@ permalink: /about/
 ---
 
 *silly rants, some thoughts while staring at the green terminal.*
+
+twitter *@manklu*
