@@ -8,7 +8,7 @@ summary: simple is awesome
 I was a novice Java Developer doing a Web API for my startup — with having no clue on coding patterns and designs to build a codebase which can evolve gracefully as it would hit shore after shore of change in the days to come.
 
 
-To think of the irresponsibility involved, that codebase would definitely tick off every item in a “no-no” checklist of an experienced developer’s mind.
+To think of the irresponsibility involved, that codebase would definitely tick off every item in a *“no-no”* checklist of an experienced developer’s mind.
 
 
 But then, I have hurriedly left my startup some time back. That story ends there.
@@ -36,10 +36,10 @@ This phenomenal [talk by Rob Pike](https://www.youtube.com/watch?v=rFejpH_tAHM),
 Aiming for simplicity in code cutting the cruft will lead to a state of zen in your codebase — a tiny effort required to battle any storm of change that may come tomorrow, because change, as we all know — is the only constant!
 
 
-Simplicity’s sibling — Orthogonality is that quality that creates reusable pieces and parts of code that solve one thing, and solve it really well and be rock-solid dependable!
+Simplicity’s sibling — *Orthogonality* is that quality that creates reusable pieces and parts of code that solve one thing, and solve it really well and be rock-solid dependable!
 
 
-Hitting orthogonality in code strikes off ‘O’ in SOLID too — Open/Closed principle. Such a setup is open for adding a new piece and mixing it up with the existing code for extension, but closed as you never need to touch the existing code.
+Hitting orthogonality in code strikes off ‘O’ in SOLID too — *Open/Closed principle*. Such a setup is open for adding a new piece and mixing it up with the existing code for extension, but closed as you never need to touch the existing code.
 
 
 But this orthogonality is hard to get by. So is simplicity.
@@ -51,17 +51,17 @@ Adding cruft, bells and whistles to code may become a natural tendency. The elep
 The mantra to great orthogonality may lie in very good hindsight in separating concerns. This may not be immediately apparent today when you are developing this thing you have at hand. That’s okay. As I will discuss soon, always be refactoring towards it!
 
 
-It’s a continuum towards orthogonality — not a binary state, and you should know where to stop too avoiding ‘over-engineering’!
+It’s a continuum towards orthogonality — not a binary state, and you should know where to stop too avoiding *‘over-engineering’*!
 
 
 ---
 *__simple code is testable__*
 
 
-Now an obvious side effect of such a code — with no rabbit holes is that you get to test your code with not much head-banging. Not a lot of mocking, stubbing and data setup needed: since simplicity. Not a lot of expectations to write to test the same piece: since orthogonality.
+Now an obvious side effect of such a code  —  with no rabbit holes is that you get to test your code with not much head-banging. Not a lot of mocking, stubbing and data setup needed: since simplicity. Not a lot of expectations to write to test the same piece: since orthogonality.
 
 
-Converse also applies, if you are doing too much to test something, it is not there yet and it will cause you pain… So go refactor!
+Converse also applies, if you are doing too much to test something, it is not there yet and it will cause you pain… *__So go refactor!__*
 
 
 ---
