@@ -6,4 +6,8 @@ permalink: /about/
 
 *silly rants, some thoughts while staring at the green terminal.*
 
-twitter *@manklu*
+Look me up!
+
+*twitter* [@manklu](https://twitter.com/manklu)
+
+*github* [jaymanklu](https://github.com/jaymanklu)
