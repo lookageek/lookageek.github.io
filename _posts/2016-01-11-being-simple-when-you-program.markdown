@@ -1,8 +1,9 @@
 ---
-layout: post
-title: being simple when you program
-date: 2016-01-11
-summary: simple is awesome
+layout:    post
+title:     being simple when you program
+date:      2016-01-11
+summary:   simple is awesome
+permalink: /:title
 ---
 
 I was a novice Java Developer doing a Web API for my startup — with having no clue on coding patterns and designs to build a codebase which can evolve gracefully as it would hit shore after shore of change in the days to come.

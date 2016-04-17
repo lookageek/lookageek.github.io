@@ -3,6 +3,7 @@ layout:     post
 title:      fsm_docker
 date:       2015-09-01
 summary:    a finite state machine orchestration framework for your docker containers
+permalink:  /:title
 ---
 
 #### Construction in progress
