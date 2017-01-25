@@ -15,4 +15,4 @@ But there is a very low signal-to-noise ratio on these problems that are getting
 
 Just to ride the bandwagon of technology and cash in has lead to a good amount of precious time being wasted in this community doing pointless work!
 
-Thus I propose a brotherhood of gatekeepers for technology industry who will vet ideas and problems whether they can be solved using current state-of-the-art efficiently or in an envisioned future, plus points for ideas which can have a significant impact to the market when end product is brought forth. We as torch-bearers of technology should not be working on things which are not supposed to be solved by technology!  
+Thus I propose a *__brotherhood of gatekeepers__* for technology industry who will vet ideas and problems whether they can be solved using current state-of-the-art efficiently or in an envisioned future, plus points for ideas which can have a significant impact to the market when end product is brought forth. We as torch-bearers of technology should not be working on things which are not supposed to be solved by technology!  
