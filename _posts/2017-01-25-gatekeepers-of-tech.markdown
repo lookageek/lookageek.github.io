@@ -1,6 +1,6 @@
 ---
 layout:    post
-title:     "echo 'Gatekeepers of Tech' > blogpost --rant"
+title:     "echo 'gatekeepers of tech' > blogpost --rant"
 date:      2017-01-25
 summary:   are we in tech solving problems that matter?
 permalink: gatekeepers_of_tech
