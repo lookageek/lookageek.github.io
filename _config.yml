@@ -2,7 +2,7 @@
 title:       look... a geek!
 email:       jayanthms7@gmail.com
 author:      Jayanth Manklu
-description: "zsh, green terminal"
+description: "silly rants, some thoughts while staring at the green terminal."
 baseurl:     ""
 url:         "https://lookageek.github.io"
 date_format: "%b %-d, %Y"
@@ -59,4 +59,3 @@ sass:
 
 # Gems
 gems: [jekyll-paginate]
-
