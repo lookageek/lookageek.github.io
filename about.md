@@ -10,4 +10,4 @@ Look me up!
 
 *twitter* [@manklu](https://twitter.com/manklu)
 
-*github* [jaymanklu](https://github.com/jaymanklu)
+*github* [jaymanklu](https://github.com/look-a-geek)
