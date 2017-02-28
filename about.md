@@ -11,3 +11,5 @@ Look me up!
 *twitter* [@manklu](https://twitter.com/manklu)
 
 *github* [lookageek](https://github.com/lookageek)
+
+*linkedin* [Jayanth Manklu](https://www.linkedin.com/in/jayanthmanklu/)
